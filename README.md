@@ -1,12 +1,11 @@
 # dart-cli-crypto-bcrypt
 
 ## Description
-Webscrapes google's homepage.
-Returns html source.
+Comparing passwords with one-way hashes.
 
 ## Tech stack
 - dart
-  - http
+  - dbcrypt
 
 ## Docker stack
 - google/dart
